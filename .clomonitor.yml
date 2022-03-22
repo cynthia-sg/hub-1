@@ -4,4 +4,6 @@ exemptions:
   - check: governance
     reason: "testing <script onload=\"{console.log('hi')}\">html</script>"
   - check: adopters
-    reason: 
+    reason:
+  - check: maintainers
+    reason: ""
