@@ -2,7 +2,7 @@ exemptions:
   - check: artifacthub_badge
     reason: this is a sample reason
   - check: governance
-    reason: "testing <script onload=\"{console.log('hi')}\">html</script>"
+    reason: "testing <script onload=\"{console.log('hi')}\"> html </script>"
   - check: adopters
     reason:
   - check: maintainers
